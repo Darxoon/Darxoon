@@ -8,8 +8,8 @@ My main interests are in Game Development, reverse engineering how programs work
 
 * [(WIP) An audio only RPG](https://github.com/Darxoon/AudioStory)
 * [LineRandomizer](https://github.com/Darxoon/LineRandomizer)
-* [Pitradio (a Project for PIT Hackathon I took part in)](https://github.com/lukaslangrock/pitradio)
-* [A program for modding Paper Mario: The Origami King](https://github.com/Darxoon/TOKElfTool)
+* [Pitradio (a WIP Project for PIT Hackathon I took part in)](https://github.com/lukaslangrock/pitradio)
+* [TOKElfTool: A program for modding Paper Mario: The Origami King](https://github.com/Darxoon/TOKElfTool)
 
 ### Origami Wand
 The project I'm currently mainly working on is a rewrite of [TOKElfTool](https://github.com/Darxoon/TOKElfTool) in Svelte. It will support many QoL improvements that would be too complicated to do in WPF and more file types.
