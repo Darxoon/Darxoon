@@ -10,6 +10,7 @@ My main interests are in Game Development, reverse engineering how programs work
 * [LineRandomizer](https://github.com/Darxoon/LineRandomizer)
 * [Pitradio (a WIP Project for PIT Hackathon I took part in)](https://github.com/lukaslangrock/pitradio)
 * [TOKElfTool: A program for modding Paper Mario: The Origami King](https://github.com/Darxoon/TOKElfTool)
+* [BorderlessEverything: A program to make any program a borderless window](https://github.com/Darxoon/BorderlessEverything) (forked by Mr. Technician's BorderlessMinecraft)
 
 ### Infini-Toe
 A side project I'm working on at the moment is Infini-Toe. It's the classic game Tic Tac Toe, which is also known as Noughts and Crosses, but infinite. Instead of a standard 3x3 grid, it plays off on an infinitely large grid. The game also has no ending, thus making it temporally infinite too. The game contains many more alterations from the standard game, in order to make it work with an infinitely large board and no fixed match end. It will support local multiplayer and online multiplayer.
