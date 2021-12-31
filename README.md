@@ -2,7 +2,7 @@
 
 ### Interests
 
-My main interests are in Game Development, reverse engineering how programs work and trying to use Programming Languages in interesting ways.
+My main interests are in Game Development, reverse engineering how programs work and trying to use Programming Languages in interesting ways. One of my most notable contributions is my work in the Paper Mario: The Origami King modding scene, where I significantly advanced the modding scene with [TOKElfTool](https://github.com/Darxoon/TOKElfTool) and other Research efforts.
 
 ### My Projects
 
