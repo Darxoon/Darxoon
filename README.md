@@ -1,20 +1,15 @@
 ## Hi I'm Darxoon
 
-### Interests
-
-My main interests are in Game Development, reverse engineering how programs work and trying to use Programming Languages in interesting ways. One of my most notable contributions is my work in the Paper Mario: The Origami King modding scene, where I significantly advanced the modding scene with [TOKElfTool](https://github.com/Darxoon/TOKElfTool) and other Research efforts.
+I mod video games :)
 
 ### My Projects
 
-* [(WIP) An audio only RPG](https://github.com/Darxoon/AudioStory)
-* [LineRandomizer](https://github.com/Darxoon/LineRandomizer)
-* [Pitradio (a WIP Project for PIT Hackathon I took part in)](https://github.com/lukaslangrock/pitradio)
-* [BorderlessEverything: A program to make any program a borderless window](https://github.com/Darxoon/BorderlessEverything) (forked by Mr. Technician's BorderlessMinecraft)
-* [Origami Wand:](https://github.com/Darxoon/OrigamiWand) A program for modding Paper Mario: The Origami King,  
-being the successor to [TOKElfTool](https://github.com/Darxoon/TOKElfTool) and having opened incredible possibilities for modding the game,   
-most importantly used for the ["The Origami King: Refolded"](https://gamebanana.com/wips/52911) mod
+* [nw-tex](https://github.com/Darxoon/nw-tex), [scriptstuff](https://github.com/Darxoon/scriptstuff): Tools for modding Paper Mario: Sticker Star
+* [Origami Wand](https://github.com/Darxoon/OrigamiWand), [Unsimplifier](https://github.com/Darxoon/Unsimplifier): "Graphical" editors for editing Paper Mario: The Origami King and the TTYD Remake's content
+* [FistyLoader](https://github.com/Darxoon/FistyLoader): A mod for World of Goo 2 to allow adding custom content that wasn't previously possible, such as custom Gooballs
+* [My Website](https://darxoon.neocities.org)
+* [BorderlessEverything](https://github.com/Darxoon/BorderlessEverything): A program to make any program a borderless window (forked by Mr. Technician's BorderlessMinecraft)
 
-I am mainly working on Origami Wand nowadays, although I would love to finish some of my other long dead side projects as well.
 
 # Have a look at sea slugs.
 
